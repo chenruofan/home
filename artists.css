@@ -1,0 +1,9 @@
+.hover:hover {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    width: 400px;
+    height: auto;
+    display: block;
+    z-index: 800;
+}
